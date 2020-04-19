@@ -1,0 +1,5 @@
+/* https://ru.bem.info/methodology/css/#комбинированные-селекторы */
+.header__lang-link.header__lang-link_active {
+  text-decoration: underline;
+  text-underline-position: under;
+}

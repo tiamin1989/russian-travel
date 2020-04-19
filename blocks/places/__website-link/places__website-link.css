@@ -1,0 +1,12 @@
+.places__website-link {
+  display: block;
+  margin: 12px 0 6px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  text-underline-position: under;
+}
+
+.places__website-link:hover {
+  opacity: 0.8;
+}

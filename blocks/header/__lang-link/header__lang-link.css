@@ -1,0 +1,15 @@
+@import url('./_active/header__lang-link_active.css');
+
+.header__lang-link {
+  color: #fff;
+  text-decoration: inherit;
+}
+
+.header__lang-link:hover {
+  color: #808080;
+}
+
+
+
+
+
