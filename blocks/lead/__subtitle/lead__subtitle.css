@@ -1,6 +1,8 @@
 .lead__subtitle {
   font-size: 30px;
   text-align: center;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
 }
 
 @media all and (min-width: 1280px) {

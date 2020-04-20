@@ -1,3 +1,8 @@
+.intro__title {
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 900;
+}
+
 @media all and (min-width: 1280px) {
   .intro__title {
     margin: 67px 0 0;

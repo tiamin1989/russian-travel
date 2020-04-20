@@ -8,17 +8,29 @@
   justify-content: space-between;
   max-width: 1184px;
   margin: 0 auto 0;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
 }
 
-@media all and (max-width: 787px) {
+@media all and (min-width: 1080px) {
   .footer {
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: 0 2% 0;
+    padding: 78px 3% 0;
   }
 }
 
-@media all and (max-width: 424px) {
+@media all and (min-width: 1024px) and (max-width: 1279px) {
+  .footer {
+    padding: 78px 4% 0;
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 1023px) {
+  .footer {
+    padding: 70px 2% 0;
+  }
+}
+
+@media all and (max-width: 767px) {
   .footer {
     flex-direction: column;
     justify-content: flex-start;

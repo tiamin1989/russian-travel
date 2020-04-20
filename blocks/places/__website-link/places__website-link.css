@@ -5,8 +5,11 @@
   font-size: 18px;
   line-height: 22px;
   text-underline-position: under;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
 }
 
 .places__website-link:hover {
   opacity: 0.8;
+  transition: all 2s;
 }

@@ -39,7 +39,7 @@
   }
 }
 
-@media all and (min-width: 320px) and (max-width: 424px) {
+@media all and (max-width: 424px) {
   .places {
     margin: 0 auto 0;
     padding: 0;

@@ -2,11 +2,13 @@
 
 .header__lang-link {
   color: #fff;
-  text-decoration: inherit;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {
   color: #808080;
+  opacity: .8;
+  transition: all 2s;
 }
 
 

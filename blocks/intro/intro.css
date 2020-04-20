@@ -1,3 +1,4 @@
+@import url('./__list-item-lightweight/intro__list-item-lightweight.css');
 @import url('./__title/intro__title.css');
 @import url('./__text/intro__text.css');
 @import url('./__list/intro__list.css');
@@ -25,7 +26,7 @@
   }
 }
 
-@media all and (min-width: 320px) and (max-width: 424px) {
+@media all and (max-width: 424px) {
   .intro {
     margin-top: 67px;
     padding: 0 2% 0;
