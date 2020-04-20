@@ -1,0 +1,22 @@
+.cover__wrapper {
+  position: relative;
+  width: 100%;
+}
+
+@media all and (min-width: 1280px) {
+  .cover__wrapper {
+    padding-bottom: 63%;
+  }
+}
+
+@media all and (min-width: 1024px) and (max-width: 1279px) {
+  .cover__wrapper {
+    padding-bottom: 64%;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .cover__wrapper {
+    padding-bottom: 65%;
+  }
+}
